@@ -1,0 +1,13 @@
+{
+    "name": "outer-root",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "lockWorkspaces": [
+        "inner-root"
+    ],
+    "devDependencies": {
+        "typescript": "^4.2.4"
+    }
+}

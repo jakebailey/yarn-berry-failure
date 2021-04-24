@@ -1,0 +1,6 @@
+{
+    "name": "package-a",
+    "devDependencies": {
+        "typescript": "^4.2.4"
+    }
+}
